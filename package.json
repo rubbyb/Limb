@@ -7,8 +7,15 @@
   "scripts": {
     "dev": "ts-node-dev src/limb.ts"
   },
-
   "dependencies": {
-    "discord.js": "^12.5.3"
-  }
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "tsc": "^2.0.3"
+  },
+  "name": "limb",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rubbyb/Limb.git",
+  "author": "rubbyb <rubby.mdias@gmail.com>",
+  "license": "MIT"
 }
